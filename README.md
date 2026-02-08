@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rehan Munir 👋
 
-<!--
-**Rehan034455/Rehan034455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End & UI/UX Developer with hands-on experience in building clean, responsive, and user-focused web applications.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- UI/UX Design & Prototyping
+- Front-End Development (React JS, Tailwind CSS, HTML, CSS)
+- Design-to-Code & Image-to-Code Conversion
+- Backend Integration (Firebase, Supabase)
+- Web & Mobile App Interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- React JS
+- Tailwind CSS
+- HTML5 / CSS3
+- JavaScript
+- Firebase
+- Supabase
+- Figma
+
+## 📂 Portfolio
+🎨 UI/UX & Front-End Projects  
+🔗 https://www.behance.net/rehanmunir2
+
+## 📍 Availability
+- Immediate
+- Open to Gulf relocation
+
+## 📫 Contact
+- Email: rehanmunir034455@gmail.com
+- Location: Islamabad, Pakistan
