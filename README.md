@@ -1,39 +1,102 @@
-# Hi, I'm Rehan Munir 👋
+# 👋 Hi, I'm Rehan Munir
 
-Front-End & UI/UX Developer with hands-on experience in building clean, responsive, and user-focused digital products for web and mobile platforms.
+### Front-End Developer & UI/UX Specialist  
+Building high-performance, responsive, and visually refined digital experiences.
 
-## 💼 What I Do
-- UI/UX Design & Prototyping
-- Front-End Development (React JS, Tailwind CSS, HTML, CSS)
-- Design-to-Code & Image-to-Code Conversion
-- API Integration (REST APIs)
-- Backend Integration (Firebase, Supabase)
-- Web & Mobile App Interfaces
+---
 
-## 🧩 Technical Skills
-- React JS
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- REST APIs
-- Firebase (Auth, Firestore)
-- Supabase (Database, Auth)
-- Figma
+## 🚀 About Me
 
-## 🧑‍💻 Professional Experience
-- **Website & App Developer / UI-UX Designer**  
-  Worked on multiple client and internal projects involving responsive UI development, API-based data rendering, authentication flows, and design system consistency.
-- **Freelance UI/UX & Front-End Developer**  
-  Delivered design and front-end solutions for independent clients, including landing pages, dashboards, and business websites with real-world requirements and deadlines.
+I am a Front-End & UI/UX Developer with **2.5+ years of professional and freelance experience** delivering production-ready web interfaces for real estate, corporate, and product-based platforms.
 
-## 📂 Portfolio
-🎨 UI/UX & Front-End Projects  
-🔗 https://www.behance.net/rehanmunir2
+I specialize in transforming designs into clean, scalable, and responsive front-end systems using modern technologies. My focus is on performance, usability, and pixel-level accuracy.
+
+I’ve worked on multiple real-world client projects involving responsive UI development, API integrations, authentication systems, and structured component architecture.
+
+---
+
+## 🛠 Core Expertise
+
+- Responsive Front-End Development  
+- UI/UX Design & Design Systems  
+- Design-to-Code Conversion  
+- REST API Integration  
+- Firebase & Supabase Integration  
+- Landing Pages & Web Platforms  
+- Mobile-Responsive Architecture  
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+- React JS  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- HTML5 / CSS3  
+
+**Backend Integration**
+- Firebase (Authentication, Firestore)  
+- Supabase (Database, Auth)  
+- REST APIs  
+
+**Design**
+- Figma  
+- Wireframing & Prototyping  
+- Visual Hierarchy & UX Optimization  
+
+---
+
+## 📌 Selected Projects
+
+- Premium Real Estate Platforms  
+- Corporate Architectural Websites  
+- Investor-Focused Landing Pages  
+- Dashboard & Admin Interfaces  
+- File Verification & Feedback Systems  
+
+*(Full project previews available in pinned repositories below.)*
+
+---
+
+## 🌍 Portfolio & Work
+
+🔗 Personal Portfolio:  
+https://rehanmunir.tech  
+
+🎨 UI/UX Showcase:  
+https://www.behance.net/rehanmunir2  
+
+---
+
+## 📈 Professional Experience
+
+**Front-End Developer & UI/UX Designer (2.5+ Years)**  
+Worked on multiple client and freelance projects involving:
+
+- Production-ready React applications  
+- Component-based UI architecture  
+- Responsive design systems  
+- API-based dynamic data rendering  
+- Performance optimization  
+
+Delivered clean, scalable, and user-focused interfaces aligned with business goals.
+
+---
 
 ## 📍 Availability
-- Immediate
-- Open to Gulf relocation
+
+- Open to Remote Work  
+- Open to Relocation (Saudi Arabia | UAE | Qatar)  
+- Available for Full-Time Opportunities  
+
+---
 
 ## 📫 Contact
-- Email: rehanmunir034455@gmail.com
-- Location: Islamabad, Pakistan
+
+📧 Email: rehanmunir034455@gmail.com  
+📍 Location: Islamabad, Pakistan  
+
+---
+
+### ⚡ Always building. Always improving. Always shipping.
